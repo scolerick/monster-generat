@@ -1,0 +1,78 @@
+
+.speechcontainer {
+  background-color: black;
+  text-align: center;
+   position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+  0px; width: 400px;
+   box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, 0.28);
+}
+
+.bg0 {
+  background: url('https://picsum.photos/1200') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.bg1 {
+  background: url('https://picsum.photos/1200') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.bg2 {
+  background: url('https://picsum.photos/1200') no-repeat center center fixed;
+  background-size: cover;
+}
+
+/**stylization**/
+
+	.container {
+    background: #FFFFFF;
+    font-family: arial;
+    width: 400px;
+    	align-items: center;
+    box-shadow: 6px 6px 2px 1px rgba(0, 0, 0, 0.28);
+
+}
+
+h1 {
+  color: #fff;
+  background: grey;
+  font-family: arial;
+}
+
+.justPadding {
+  padding-top:700px;
+
+}
+
+.header {
+  overflow:hidden;
+  position: fixed; 
+  top: 0;
+  width: 100%;
+  color: #fff;
+  background: red;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.container2 {
+  color: #FFFFFF;
+   text-shadow: 2px 2px 4px #000000; 
+    background: grey;
+    width: 100%;
+    	align-items: center;
+}
+
+.gmIntro {
+  color: #fff;
+  font-family: arial;
+  height: 50%;
+  align: center;
+}
+
+img.animated-gif{
+  width: 75px;
+  height: 75px;
+}
