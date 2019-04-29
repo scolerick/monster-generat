@@ -11,7 +11,7 @@ $('body').addClass('bg' + randNum);
 
 // The API feed
 
-const getStuff = 'https://api-beta.open5e.com/monsters/?format=json';
+const getStuff = 'https://api-beta.open5e.com/monsters/?format=json;';
 
 // Do stuff with returned data
 let doStuff = function (data) {
